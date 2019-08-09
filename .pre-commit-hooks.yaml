@@ -1,0 +1,6 @@
+- id: google-java-format
+  name: Google Java Format
+  entry: run-google-java-format.sh
+  files: \.java$
+  description: Runs google-java-format. Requires Java.
+  language: script
